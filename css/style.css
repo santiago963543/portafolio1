@@ -1,0 +1,114 @@
+.fotom{
+    width: 200px;
+    background-image: center;
+}
+.sobremi{
+    background-color: rgb(12, 17, 19);
+   text-align:center;
+   color: aliceblue;
+}
+.sobremi h2{    
+    color: rgb(42, 65, 165);
+}
+.sobremi h5{
+    margin-inline-end: 20px;
+    color: aliceblue;
+}
+.sobremi p{
+    text-align:center;
+    color: aliceblue;
+}
+
+
+
+
+.descripcion2{
+    background-color: rgb(25, 28, 29);
+    color: aliceblue;
+    text-align: center;
+    
+}
+.foto1{
+    width: 200px;
+}
+.descripcion2 h1{
+    color: rgb(42, 65, 165);
+}
+.profesi{
+    background-color: rgb(12, 17, 19) ;
+    color: aliceblue;
+    text-align: center;
+}
+.profesi h2{
+    color: rgb(42, 65, 165);
+}
+.foto7{
+    width: 200px;
+}
+.estudios3{
+    background-color:  rgb(25, 28, 29);   
+}
+.estudios3 col{
+    float: left;  
+}
+.estudios3 s{
+   float: left;
+}
+.estudios3 h2{
+    text-align: center;
+    color:  rgb(42, 65, 165);
+}
+
+
+
+
+.habilidades2{
+    background-color:  rgb(12, 17, 19);
+    text-align: center;
+    color: aliceblue;
+}
+
+.foto9{
+    width: 400px;
+    float: left;
+}
+
+.habilidades2 h1{
+    color:  rgb(42, 65, 165);
+}
+
+.habilidades2 h4{
+     color: aliceblue;
+}
+
+.habilidades2 p{
+    text-align: center;
+}
+.habilidades2 h3{
+    text-align: center;
+}
+
+
+.experien{
+    background-color: rgb(25, 28, 29) ;
+    color: aliceblue;
+    text-align: center;
+}
+
+.experien h2{
+   color:  rgb(42, 65, 165);
+}
+
+.fotop{
+    width: 200px;
+}
+
+.referencias2{
+    background-color:rgb(12, 17, 19) ;
+    color: aliceblue;
+    text-align: center;
+}
+
+.referencias2 h2{
+    color:  rgb(42, 65, 165);
+}
